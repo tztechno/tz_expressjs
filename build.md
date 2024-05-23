@@ -1,3 +1,5 @@
+
+```
 cd myapp
 npm init -y
 npm install express marked fs path
@@ -9,7 +11,7 @@ npx tsc
 node dist/server.js
 
 http://localhost:3000
-
+```
 ```
 markdown-server/
 ├── src/
