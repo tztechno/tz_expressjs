@@ -23,9 +23,9 @@ import express from 'express';
 const app = express();
 ```
 ### 静的ファイルの提供:
-
+```
 app.use(express.static('public'));
-
+```
 ### ルートの設定:
 
 ### ディレクトリ内のファイルリストを表示するルート:
