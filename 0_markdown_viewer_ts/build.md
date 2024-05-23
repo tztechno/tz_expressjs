@@ -21,4 +21,10 @@ markdown-server/
 ├── node_modules/
 ├── package.json
 └── tsconfig.json
+
+src/: ソースコードを含むディレクトリ。TypeScriptファイル (.ts) が含まれる。
+dist/: コンパイル後のJavaScriptファイルが出力されるディレクトリ。
+node_modules/: インストールされた依存パッケージ。
+package.json: プロジェクトの設定と依存パッケージの定義。
+tsconfig.json: TypeScriptコンパイラの設定ファイル。
 ```
