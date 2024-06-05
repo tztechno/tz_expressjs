@@ -1,3 +1,6 @@
+# express, ejs, mongoose を用いたblogの作成  ... 失敗
+
+```
 mkdir my-blog
 cd my-blog
 npm init -y
@@ -7,9 +10,10 @@ cd my-blog
 node app.js
 
 http://localhost:3000
+```
 
 # localhost で接続が拒否されました。
-
+```
 my-blog/
 ├── views/
 │   ├── index.ejs
@@ -21,3 +25,4 @@ my-blog/
 │   └── post.js
 ├── app.js
 └── package.json
+```
