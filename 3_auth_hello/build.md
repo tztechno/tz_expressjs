@@ -5,11 +5,11 @@ npm install express-session
 node app.js
 
 http://localhost:3000
-自動でloginページへ
 
+非認証の場合loginページへ
 http://localhost:3000/login
 
-自動でhelloページへ
+認証済みの場合helloページへ
 http://localhost:3000/hello
 
 認証:
